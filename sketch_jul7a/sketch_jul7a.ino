@@ -25,3 +25,11 @@ void loop()
   delay(delayt);
   
 }
+
+//Connections:
+
+//One end of potentiometer to 5V.... other end to ground
+// the middle to A2
+
+//resitor with cathode of led
+//other end of the resistor to ~9V... and led anode to gnd
